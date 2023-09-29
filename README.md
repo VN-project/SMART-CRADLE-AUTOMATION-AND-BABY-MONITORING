@@ -18,4 +18,6 @@ The mood detection system analyzes the baby's vocal patterns and frequencies to 
 
 # Remote Monitoring
 The system sends real-time updates and alerts to designated caregivers through server or a mobile app. If the baby's mood changes or any issue arises, caregivers are immediately informed
+
+
 https://github.com/VN-project/SMART-CRADLE-AUTOMATION-AND-BABY-MONITORING/assets/146454526/92cb99af-5e16-4baa-905a-b019a47deab0
